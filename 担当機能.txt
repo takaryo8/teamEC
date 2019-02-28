@@ -1,8 +1,9 @@
-œsrc
+- src
 CreateDestinationAction.java
 CreateDestinationConfirmAction.java
 SettlementConfirmAction.java
-œWebContent
+
+- WebContent
 createDestination.jsp
 createDestinationComplete.jsp
 createDestinationConfirm.jsp
